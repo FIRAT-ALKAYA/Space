@@ -4,6 +4,7 @@ namespace Space
 {
     class Mat
     {
+        //Sayının Asal Olup Olmadıgını Kontrol Eden Kod Blogu
         public static bool IsPrime(int n)
         {
             if(n <= 1) return false;
